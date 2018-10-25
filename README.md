@@ -1,5 +1,4 @@
 # React-CalculateMobileHistory
-Project MFEC Assignment was bootstrapped with React
 
 # How to build/ run
 1. Install Node Js (npm version 5.2+) https://nodejs.org/en/
